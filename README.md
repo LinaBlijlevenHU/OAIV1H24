@@ -71,4 +71,10 @@ achterliggende voorbeelden uiteraard 👌)
 - [AI's spelen verstoppertje (OpenAI, reinforcement learning)](https://www.youtube.com/watch?v=Lu56xVlZ40M)
 - [AI leert om te lopen (reinforcement learning)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
 
+### Libraries & API's
+
+- [GPT4ALL](https://gpt4all.io/index.html?ref=localhost) geeft gratis toegang tot 
+taalmodellen, bijvoorbeeld Llama 3 van Meta. Ook bieden ze een API aan, waarmee je zelf
+AI-integraties kunt realiseren.
+
 
