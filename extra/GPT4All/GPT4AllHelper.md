@@ -71,9 +71,10 @@ gpt: GPT4AllHelper = GPT4AllHelper(model="Llama 3 8B Instruct", max_tokens=200, 
 Alle parameters zijn optioneel en kunnen dus eventueel weggelaten worden.
 
 Volledige voorbeeldcode om te prompten en modellen op te vragen:
+
 ```py
 # Let goed op waar je de helper in je eigen project plaatst
-from extra.GPT4AllHelper import *
+from extra.GPT4All.GPT4AllHelper import *
 
 # Example prompt
 example_prompt: str = "Who is Lionel Messi?"
