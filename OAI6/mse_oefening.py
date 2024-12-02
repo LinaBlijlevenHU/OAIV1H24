@@ -5,8 +5,8 @@ import seaborn as sns
 sns.color_palette("bright")
 
 # Datapunten
-X = [0, 1, 2, 3, 4]
-y = [1, 4, 7, 8, 15]
+X = [1, 2, 3, 4]
+y = [4, 7, 8, 15]
 
 # Mogelijke voorspellingen
 y1 = [3 + 4 * xi for xi in X]
